@@ -114,7 +114,3 @@ python main.py
 4. **Look for**: ✅ Bot logged in as [YourBotName]
 
 Your bot is now hosted for free and will run 24/7!
-
-### Local Development
-
-If you want to run the bot locally for testing:
